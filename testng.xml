@@ -1,0 +1,13 @@
+
+
+<suite name="Suite1" verbose="1">
+<test thread-count="3" name="Regression1" parallel="methods">
+    <classes>
+        <class name="com.demo.TestClass"/>
+        <!--         <class name="com.demo.listeners.Runner"/> -->
+    </classes>
+</test>
+</suite>
+
+
+
